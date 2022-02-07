@@ -1,0 +1,11 @@
+<?php
+
+namespace app\Tnq\Todo\Model;
+
+require_once "vendor/autoload.php";
+
+class User {
+protected $id;
+protected $task;
+protected $status;
+}

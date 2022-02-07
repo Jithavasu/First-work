@@ -1,0 +1,23 @@
+<?php 
+
+namespace App;
+
+
+class test {
+    protected $value;
+    public function __construct()
+    {
+       echo "you are in index";       
+        
+    }
+      
+   
+}
+
+
+//echo test::test();
+
+
+
+
+
